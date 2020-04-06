@@ -1,5 +1,6 @@
 # MJV DevSchool - Projeto de conversor de moedas
 
+**Descrição**
 O objetivo do desafio é criar um projeto em Angular chamado “Conversor de moedas”. Nesta página será possível:
 * Ver a cotação do dia
 * Usar uma calculadora de conversão
@@ -7,7 +8,7 @@ O objetivo do desafio é criar um projeto em Angular chamado “Conversor de moe
 * Selecionar outras moedas para converter
 * Ver o histórico do preço de cada moedas
 
-Os desafios estão listados abaixo:
+**Os desafios estão listados abaixo:**
 1. Criar o projeto
 2. Criar o componente da calculadora
 3. Cria o componente de navegação
@@ -19,11 +20,11 @@ Os desafios estão listados abaixo:
 8. Coletar dados históricos de uma API
 9. Exibir o dado histórico no componente de histórico de preço
 
-Inspirações:
+**Inspirações:**
 * https://dolarhoje.com/
 * https://economia.uol.com.br/cotacoes/cambio/
 * https://financeone.com.br/moedas/conversor-de-moedas/
 * https://www.melhorcambio.com/dolar-hoje
 
-API de consulta:
+**API de consulta:**
 https://exchangeratesapi.io/
