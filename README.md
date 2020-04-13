@@ -35,4 +35,8 @@ O objetivo do desafio é criar um projeto em Angular chamado “Conversor de moe
 * https://www.jqwidgets.com/angular/angular-chart/#https://www.jqwidgets.com/angular/angular-chart/angular-chart-lineseries.htm
 * ```ng add jqwidgets-ng```
 
+ou 
+
+* usar o `chart.js`
+* exemplo que o Celio criou para ajudar vocês! https://drive.google.com/open?id=1LhhEmUPoJY5cjg4Xxxa5yz4pVoh5mgZs
 
