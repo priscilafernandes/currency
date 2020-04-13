@@ -28,10 +28,11 @@ O objetivo do desafio é criar um projeto em Angular chamado “Conversor de moe
 * https://www.melhorcambio.com/dolar-hoje
 
 **API de consulta:**
-https://exchangeratesapi.io/
+* https://exchangeratesapi.io/
 
 
 **Componente de gráficos**
-https://www.jqwidgets.com/angular/angular-chart/#https://www.jqwidgets.com/angular/angular-chart/angular-chart-lineseries.htm
-
+* https://www.jqwidgets.com/angular/angular-chart/#https://www.jqwidgets.com/angular/angular-chart/angular-chart-lineseries.htm
 ```ng add jqwidgets-ng```
+
+
